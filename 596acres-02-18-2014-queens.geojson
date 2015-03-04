@@ -2690,21 +2690,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.9187849014,
-          40.5612736677
-        ]
-      },
-      "type": "Feature",
-      "id": "4163500356",
-      "properties": {
-        "vacant_sites": true,
-        "area": 0.117
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -73.9428848639,
           40.7448278695
         ]
@@ -3554,36 +3539,6 @@
       "properties": {
         "vacant_sites": true,
         "area": 0.239
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.7508691155,
-          40.770571812
-        ]
-      },
-      "type": "Feature",
-      "id": "4080820255",
-      "properties": {
-        "vacant_sites": true,
-        "area": 0.273
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.7343774873,
-          40.7647716476
-        ]
-      },
-      "type": "Feature",
-      "id": "4082350145",
-      "properties": {
-        "vacant_sites": true,
-        "area": 0.04
       }
     },
     {
@@ -6875,21 +6830,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.8850198282,
-          40.5681704473
-        ]
-      },
-      "type": "Feature",
-      "id": "4163400100",
-      "properties": {
-        "vacant_sites": true,
-        "area": 2.928
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -73.7761165421,
           40.5969579259
         ]
@@ -7454,6 +7394,17 @@
       "properties": {
         "public_accessed_sites": true,
         "area": 0.098
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99017333984375,
+          40.62854560636587
+        ]
       }
     }
   ]
